@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/figures">
+        <file>figures/dark_bishop_45.svg</file>
+        <file>figures/dark_king_45.svg</file>
+        <file>figures/dark_knight_45.svg</file>
+        <file>figures/dark_pawn_45.svg</file>
+        <file>figures/dark_queen_45.svg</file>
+        <file>figures/dark_rook_45.svg</file>
+        <file>figures/white_bishop_45.svg</file>
+        <file>figures/white_king_45.svg</file>
+        <file>figures/white_knight_45.svg</file>
+        <file>figures/white_pawn_45.svg</file>
+        <file>figures/white_queen_45.svg</file>
+        <file>figures/white_rook_45.svg</file>
+    </qresource>
+</RCC>

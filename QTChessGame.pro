@@ -9,3 +9,6 @@ TARGET = MyChessGame
 OBJECTS_DIR = .obj
 MOC_DIR = .moc
 RCC_DIR = .rcc
+
+RESOURCES += \
+    resources/figures.qrc
