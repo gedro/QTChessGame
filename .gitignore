@@ -1,0 +1,7 @@
+/*.pro.user
+/QTChessGame.pro.user
+/Makefile
+/MyChessGame
+/*.o
+/moc_*
+/ui_*.h
