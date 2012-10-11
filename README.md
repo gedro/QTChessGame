@@ -1,0 +1,4 @@
+QTChessGame
+===========
+
+School assignment
